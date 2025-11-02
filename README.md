@@ -13,7 +13,7 @@ The script is designed to be lightweight and efficient, checking the URL every 1
 To use this script, you need a user script manager like [Tampermonkey](http://www.tampermonkey.net/).
 
 1.  Install the Tampermonkey browser extension for your browser.
-2.  Click [here](<raw_link_to_the_script_will_go_here>) to install the script.
+2.  Click [here](https://raw.githubusercontent.com/j4ck0lantern/tm-yt-shorts-redirect/refs/heads/main/yt-shorts-redirect.user.js) to install the script.
 3.  Tampermonkey will open a new tab. Click the "Install" button to add the script to your browser.
 
 ## Usage
